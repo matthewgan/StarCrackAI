@@ -22,11 +22,11 @@ StarCraft is a real-time strategy(RTS) game that combines fast-paced micro-actio
 
 
 ### All existing related resourses
-https://github.com/greentfrapp/pysc2-RLagents
-https://github.com/Inoryy/pysc2-rl-agent
-https://github.com/xhujoy/pysc2-agents
-https://github.com/chris-chris/pysc2-examples
-https://github.com/simonmeister/pysc2-rl-agents
-https://github.com/chagmgang/pysc2_rl
+* https://github.com/greentfrapp/pysc2-RLagents
+* https://github.com/Inoryy/pysc2-rl-agent
+* https://github.com/xhujoy/pysc2-agents
+* https://github.com/chris-chris/pysc2-examples
+* https://github.com/simonmeister/pysc2-rl-agents
+* https://github.com/chagmgang/pysc2_rl
 
-https://zhuanlan.zhihu.com/p/29246185?group_id=890682069733232640
+* https://zhuanlan.zhihu.com/p/29246185?group_id=890682069733232640
