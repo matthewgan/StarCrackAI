@@ -8,7 +8,7 @@ StarCraft is a real-time strategy(RTS) game that combines fast-paced micro-actio
 ## Algorithms:
 * OpenAI's baselines: https://blog.openai.com/openai-baselines-dqn/   &&   https://github.com/openai/baselines
 (Note: first thing i tried is baselines DQN, but while i was trying, their github is fail to build for over a month, they just fix it...)
-* PPO: 
+* PPO: https://arxiv.org/abs/1707.06347
 
 * Others: https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow
 (Note: I found a very good tutorial while i was digging into PPO algorithm, basically have all codes already includes)
