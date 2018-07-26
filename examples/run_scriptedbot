@@ -1,4 +1,0 @@
-python -m pysc2.bin.agent \
---map Simple64 \
---agent scriptedbot.ScriptedAgent \
---agent_race terran

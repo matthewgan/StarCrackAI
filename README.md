@@ -15,13 +15,17 @@ StarCraft is a real-time strategy(RTS) game that combines fast-paced micro-actio
 
 ## Get Started!
 ### Installation
+IMPORTANT NOTE:  PySC2 2.0.1 must use game client v4.1.2 or above
 
 ### Smoke Test
+* Installation Verify: python -m pysc2.bin.agent --map Simple64
+* Replay Verify: python -m pysc2.bin.play --replay <path-to-replay>
+* List Maps: python -m pysc2.bin.map_list
 
 ### RL smart agents
 
 
-### All existing related resourses
+### All existing related resourses(But all resources is out of date)
 * https://github.com/greentfrapp/pysc2-RLagents
 * https://github.com/Inoryy/pysc2-rl-agent
 * https://github.com/xhujoy/pysc2-agents
